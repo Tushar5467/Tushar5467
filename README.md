@@ -21,11 +21,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
-
----
-
 ## 📫 Connect with Me
 - Email: tusharghy2004@gmail.com 
 - LinkedIn: www.linkedin.com/in/
