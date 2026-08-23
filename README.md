@@ -1,7 +1,7 @@
 
 # Hi 👋, I'm Tushar Chakraborty
 
-🎓 2nd Year CSE (AI & ML) Student at VIT Bhopal  
+🎓 3rd Year CSE (AI & ML) Student at VIT Bhopal  
 💡 Passionate about Data Scienece & AI  
 
 ---
